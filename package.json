@@ -9,6 +9,7 @@
     "@rails/webpacker": "5.2.1",
     "@stimulus/polyfills": "^2.0.0",
     "@ungap/custom-elements": "^0.1.15",
+    "abortcontroller-polyfill": "^1.7.1",
     "custom-event-polyfill": "^1.0.7",
     "stimulus": "^2.0.0"
   },
