@@ -11,6 +11,7 @@
     "@ungap/custom-elements": "^0.1.15",
     "abortcontroller-polyfill": "^1.7.1",
     "custom-event-polyfill": "^1.0.7",
+    "formdata-polyfill": "^3.0.20",
     "stimulus": "^2.0.0",
     "whatwg-fetch": "^3.6.2"
   },
