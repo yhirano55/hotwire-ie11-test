@@ -1,7 +1,9 @@
 import "core-js/stable";
 import "regenerator-runtime/runtime";
-import "whatwg-fetch";
 import "@ungap/custom-elements";
 import "custom-event-polyfill";
-import "abortcontroller-polyfill/dist/polyfill-patch-fetch";
+import "formdata-polyfill";
+import "abortcontroller-polyfill/dist/abortcontroller-polyfill-only";
+import "whatwg-fetch";
+import "intersection-observer";
 import "@stimulus/polyfills";
