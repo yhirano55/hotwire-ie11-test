@@ -990,6 +990,11 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.4.tgz#15925414e0ad2cd765bfef58842f7e26a7accb24"
   integrity sha512-1HcDas8SEj4z1Wc696tH56G8OlRaH/sqZOynNNB+HF0WOeXPaxTtbYzJY2oEfiUxjSKjhCKr+MvR7dCHcEelug==
 
+"@ungap/custom-elements@^0.1.15":
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/@ungap/custom-elements/-/custom-elements-0.1.15.tgz#150302f2ccc51415ca5bc7bda21e57a1380de505"
+  integrity sha512-3MoJcrgrLWsVZIP9Jl1+82ZtXxi0BTmuBOZXDOti2Mu6/zjhVjOvCUscYkh9uGa9v/lg292imFgJ35Sd2nKF0A==
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"

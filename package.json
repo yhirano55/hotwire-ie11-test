@@ -8,6 +8,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "5.2.1",
     "@stimulus/polyfills": "^2.0.0",
+    "@ungap/custom-elements": "^0.1.15",
     "stimulus": "^2.0.0"
   },
   "version": "0.1.0",
