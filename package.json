@@ -15,7 +15,7 @@
     "formdata-polyfill": "^3.0.20",
     "intersection-observer": "^0.12.0",
     "stimulus": "^2.0.0",
-    "whatwg-fetch": "^3.6.2"
+    "whatwg-fetch": "yhirano55/fetch"
   },
   "version": "0.1.0",
   "devDependencies": {

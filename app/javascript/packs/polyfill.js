@@ -4,5 +4,6 @@ import "@ungap/custom-elements";
 import "custom-event-polyfill";
 import "formdata-polyfill";
 import "abortcontroller-polyfill/dist/abortcontroller-polyfill-only";
+import "whatwg-fetch";
 import "intersection-observer";
 import "@stimulus/polyfills";
